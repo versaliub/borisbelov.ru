@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /primer-sayta/
+Sitemap: https://borisbelov.ru/sitemap.xml
